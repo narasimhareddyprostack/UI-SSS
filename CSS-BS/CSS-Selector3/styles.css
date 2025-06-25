@@ -1,0 +1,20 @@
+
+a{
+    background-color: red;
+}
+
+#vk{
+    background-color: yellow;
+}
+
+a[target]{
+    background-color: yellow;
+}
+
+
+*{
+   background-color: aqua; 
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: 700;
+   align-content: center;
+}
